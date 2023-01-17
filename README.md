@@ -1,6 +1,6 @@
 # JoyScore
 
-Google Cloud API usage winning project
+*Google Cloud API usage winning project*
 
 ### Inspiration
 People often complain that their YouTube recommendations are solely based on what videos they've clicked on, including videos that they don't particularly enjoy and wouldn't appreciate similar recommendations for. To counteract the inefficiency in video recommendations, we decided to create a product that allows for more accurate suggestions to aid the existing YouTube recommendation algorithm. 
